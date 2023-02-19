@@ -1,6 +1,6 @@
 # ML Sampling Techniques Comparison
 
-This project compares the performance of 5 different machine learning models on 5 different sampling techniques for imbalanced dataset. 
+This project evaluates the effectiveness of 5 different sampling techniques for imbalanced datasets using 5 machine learning models. The goal is to compare the performance of each technique and model combination to identify the best approach for addressing class imbalance.
 
 ### The sampling techniques used in this project are:
 
