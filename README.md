@@ -27,4 +27,8 @@ Python 3
 - Jupyter Notebook
 - Pandas, NumPy, Scikit-learn, and LightGBM libraries installed
 
+### Running the Project
+To run the project, simply open the Jupyter Notebook file and execute each cell in order. The results will be displayed in the notebook output.
 
+### Conclusion
+The results of this project show that LGBM Classifier is the most effective approach for addressing class imbalance in the credit card dataset here. These findings can be used to guide future research and practical applications in this domain.
