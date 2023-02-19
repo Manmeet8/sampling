@@ -20,7 +20,7 @@ This project evaluates the effectiveness of 5 different sampling techniques for 
 - Quadratic Discriminant Analysis
 
 
-###Getting Started
+### Getting Started
 To get started with this project, you'll need to have the following prerequisites:
 
 Python 3
