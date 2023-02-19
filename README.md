@@ -24,7 +24,7 @@ This project evaluates the effectiveness of 5 different sampling techniques for 
 To get started with this project, you'll need to have the following prerequisites:
 
 Python 3
--Jupyter Notebook
--Pandas, NumPy, Scikit-learn, and LightGBM libraries installed
+- Jupyter Notebook
+- Pandas, NumPy, Scikit-learn, and LightGBM libraries installed
 
 
