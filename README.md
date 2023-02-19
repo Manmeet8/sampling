@@ -18,4 +18,5 @@ This project compares the performance of 5 different machine learning models on 
 - Random Forest Classifier
 - Quadratic Discriminant Analysis
 
-![image](https://user-images.githubusercontent.com/98878944/219968439-b0c8de8f-e039-4fa0-9792-672bcd029525.png)
+![image](https://user-images.githubusercontent.com/98878944/219968481-730ce889-133e-4498-90ed-1e2ee46d740c.png)
+
